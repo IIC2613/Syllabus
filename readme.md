@@ -19,14 +19,14 @@ La página de [Issues](https://github.com/IIC2613/Syllabus/issues) se utilizará
 
 #### Ayudantes
 
-| Nombre                     | Github                                   | Email                               |
-| :------------------------- | :--------------------------------------- | :---------------------------------- |
-| Alberto Valdés             | [@](https://github.com/)                 | [@uc.cl](mailto:)                   |
-| Andrés García de la Huerta | [@](https://github.com/)                 | [agraciadelahuerta2@uc.cl](mailto:) |
-| Francisco Paniagua         | [@](https://github.com/)                 | [fipaniagua@uc.cl](mailto:)         |
-| Jaime Middleton            | [@](https://github.com/)                 | [jamiddleton@uc.cl](mailto:)        |
-| Jano Siegel                | [@](https://github.com/)                 | [jasiegel@uc.cl](mailto:)           |
-| José Manuel Opaso          | [@](https://github.com/)                 | [jmopaso@uc.cl](mailto:)            |
-| Sarah Everke               | [@](https://github.com/)                 | [sveverke@uc.cl](mailto:)           |
-| Valentina Rojas            | [@](https://github.com/)                 | [varojas@uc.cl](mailto:)            |
-| Vicente Castro             | [@vvcastro](https://github.com/vvcastro) | [vvcastro@uc.cl](mailto:)           |
+| Nombre                     | Github                                                               | Email                               |
+| :------------------------- | :--------------------------------------------------------------------| :---------------------------------- |
+| Alberto Valdés             | [@anvaldes](https://github.com/anvaldes)                             | [@uc.cl](mailto:)                   |
+| Andrés García de la Huerta | [@AndresGarciadelaHuerta](https://github.com/AndresGarciadelaHuerta) | [agraciadelahuerta2@uc.cl](mailto:) |
+| Francisco Paniagua         | [@fipaniagua](https://github.com/fipaniagua)                         | [fipaniagua@uc.cl](mailto:)         |
+| Jaime Middleton            | [@](https://github.com/)                                             | [jamiddleton@uc.cl](mailto:)        |
+| Jano Siegel                | [@jpsiegel](https://github.com/jpsiegel)                             | [jasiegel@uc.cl](mailto:)           |
+| José Manuel Opaso          | [@jmopaso](https://github.com/jmopaso/)                               | [jmopaso@uc.cl](mailto:)            |
+| Sarah Everke               | [@SarahEverke](https://github.com/SarahEverke)                       | [sveverke@uc.cl](mailto:)           |
+| Valentina Rojas            | [@valerojasm](https://github.com/valerojasm)                         | [varojas@uc.cl](mailto:)            |
+| Vicente Castro             | [@vvcastro](https://github.com/vvcastro)                             | [vvcastro@uc.cl](mailto:)           |
