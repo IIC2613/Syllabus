@@ -28,5 +28,5 @@ La página de [Issues](https://github.com/IIC2613/Syllabus/issues) se utilizará
 | Jano Siegel                | [@jpsiegel](https://github.com/jpsiegel)                             | [jasiegel@uc.cl](mailto:)           |
 | José Manuel Opaso          | [@jmopaso](https://github.com/jmopaso/)                               | [jmopaso@uc.cl](mailto:)            |
 | Sarah Everke               | [@SarahEverke](https://github.com/SarahEverke)                       | [sveverke@uc.cl](mailto:)           |
-| Valentina Rojas            | [@valerojasm](https://github.com/valerojasm)                         | [varojas@uc.cl](mailto:)            |
+| Valentina Rojas            | [@valerojasm](https://github.com/valerojasm)                         | [varojasm@uc.cl](mailto:)            |
 | Vicente Castro             | [@vvcastro](https://github.com/vvcastro)                             | [vvcastro@uc.cl](mailto:)           |
